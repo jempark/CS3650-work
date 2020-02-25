@@ -16,6 +16,8 @@ bcde
 cdef
 
 ## Example session:
+```
 $ ./top-triples input 2
 2   bcd
 2   cde
+```
