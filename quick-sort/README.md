@@ -13,15 +13,16 @@ For reference: https://en.wikipedia.org/wiki/Quicksort
 ## Sample interactions:
 
 (first two lines are input)
-
+```
 $ ./sort
 4
 2 8 3 1
 4
 1 2 3 8
+``` 
 (first line is input)
-
+```
 $ ./sort
 goat
 bad input
-
+```
